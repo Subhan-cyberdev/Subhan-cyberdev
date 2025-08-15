@@ -40,7 +40,7 @@ With expertise spanning **Cybersecurity, Full Stack Development, and Product Des
 ## 📫 Let’s Connect  
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/subhan.uxui/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/subhan-aslam-45b9a52a7/))  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=white)](your-portfolio-link)  
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:aslam541592@gmail.com)  
 
